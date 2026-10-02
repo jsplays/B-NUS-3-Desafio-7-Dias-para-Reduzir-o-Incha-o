@@ -1,0 +1,6 @@
+{
+  "name": "Desafio 7 Dias Menos Inchaço",
+  "description": "Protocolo Verão 42 - Método C.A.S.A. Um plano educativo de 7 dias com tarefas práticas, hidratação, hábitos conscientes e bem-estar para reduzir o inchaço.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
